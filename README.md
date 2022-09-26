@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
+I am a full stack software developer! Below are some of my favorite projects:
+
+### Argument Diagrams
+
+### Existential Graphs
+
+### Graphics Sandbox
+
+ Here is a video showing the grass shader implemented in the project! https://www.youtube.com/watch?v=Gh1vmMjxKB4 
+  
 <!--
 **joekrystowski/joekrystowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
