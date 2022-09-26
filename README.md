@@ -10,6 +10,9 @@ I am a full stack software developer! Below are some of my favorite projects:
 
 ![image](https://user-images.githubusercontent.com/65693478/192399645-1a1eeca2-c280-4f9f-a13c-9f74cb0d23fc.png)
 
+![image](https://user-images.githubusercontent.com/65693478/192400031-84993a3b-e215-489d-9261-df2e1e4ed420.png)
+
+
  Here is a video showing the grass shader implemented in the project! https://www.youtube.com/watch?v=Gh1vmMjxKB4 
   
 <!--
