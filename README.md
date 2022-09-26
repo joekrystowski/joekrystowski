@@ -8,6 +8,8 @@ I am a full stack software developer! Below are some of my favorite projects:
 
 ### Graphics Sandbox
 
+https://user-images.githubusercontent.com/65693478/192399645-1a1eeca2-c280-4f9f-a13c-9f74cb0d23fc.png
+
  Here is a video showing the grass shader implemented in the project! https://www.youtube.com/watch?v=Gh1vmMjxKB4 
   
 <!--
