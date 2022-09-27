@@ -6,6 +6,14 @@ I am a full stack software developer! Below are some of my favorite projects:
 
 ### Existential Graphs
 
+![](https://cdn.discordapp.com/attachments/761258225386913832/1024108109377056879/unknown.png)
+
+<img width="542" alt="Screen Shot 2022-09-26 at 8 03 03 PM" src="https://user-images.githubusercontent.com/65693478/192401594-39f28430-6cf3-4181-8d8b-c28a47f0fafa.png">
+
+https://user-images.githubusercontent.com/65693478/192401772-0ebaeada-bf71-4284-ba78-a120e8e16999.mov
+
+
+
 ### Graphics Sandbox
 
 ![image](https://user-images.githubusercontent.com/65693478/192399645-1a1eeca2-c280-4f9f-a13c-9f74cb0d23fc.png)
