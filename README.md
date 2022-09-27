@@ -6,7 +6,7 @@ I am a full stack software developer! Below are some of my favorite projects:
 
 A web-based tool for formalizing and analyzing arguments. Deployed in Cognitive Science courses at RPI.
 
-
+![](https://cdn.discordapp.com/attachments/761258225386913832/1024112816149504100/Screen_Shot_2022-09-26_at_8.18.36_PM.png)
 
 ### Existential Graphs https://eg.bram-hub.com/
 
