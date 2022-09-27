@@ -8,11 +8,9 @@ A web-based tool for formalizing and analyzing arguments. Deployed in Cognitive 
 
 
 
-### Existential Graphs
+### Existential Graphs https://eg.bram-hub.com/
 
 An online sandbox for generating formal proofs using existential graphs.
-
-Live build @ https://eg.bram-hub.com/
 
 ![](https://cdn.discordapp.com/attachments/761258225386913832/1024108109377056879/unknown.png)
 
