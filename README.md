@@ -2,9 +2,15 @@
 
 I am a full stack software developer! Below are some of my favorite projects:
 
-### Argument Diagrams
+### Argument Diagrams https://argument-diagram.bram-hub.com/
+
+A web-based tool for formalizing and analyzing arguments. Deployed in Cognitive Science courses at RPI.
+
+
 
 ### Existential Graphs
+
+An online sandbox for generating formal proofs using existential graphs.
 
 Live build @ https://eg.bram-hub.com/
 
